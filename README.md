@@ -1,7 +1,7 @@
 #############################################################################################################
 Note:- Due to large size 'client' module folder are unable to upload-full on this repo,
        You can download 'client' from this link:-
-      https://drive.google.com/file/d/1UMvs6U1zvNGADmtUSccj2Thh8w391xAY/view?usp=sharing
+         https://drive.google.com/file/d/1UMvs6U1zvNGADmtUSccj2Thh8w391xAY/view?usp=sharing
        
        
 After downloading 'client.zip' file extract it on 'my_get-and-add-post_by_MERN' folder
@@ -17,6 +17,7 @@ https://nodejs.org/en/download/
 For run this project you have to open two cmd/terminal in two different folders
 
 1>Open cmd inside 'my_get-and-add-post_by_MERN' folder
+
 2>another one in 'my_get-and-add-post_by_MERN/client' folder
 
 Now type
